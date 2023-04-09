@@ -8,5 +8,9 @@ public class Project4 {
 		System.out.println(2*2);
 	}
 	
-	
+	static void divide () { 
+		
+		System.out.println(2/2);
+		
+	}
 }
